@@ -26,7 +26,7 @@ public class SearchNilai11 {
             }
         }
         if (!ditemukan) {
-            System.out.println("Nilai " + key + " tidak ditemukan.");
+            System.out.println("Mohon maaf, nilai " + key + " yang dicari tidak ditemukan.");
         }
     }
 }
